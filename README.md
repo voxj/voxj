@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @voxj
-- 👀 I’m interested in coding and designing. When I'm bored I can watch YouTube or play Roblox
+- 👀 I’m interested in coding and designing. When I'm bored I can watch YouTube or play a game
 - 🌱 I’m currently learning JavaScript and Python
 - 🗣️ You can talk to me on Discord, using voxj.#8940 or chex-contact#7878
