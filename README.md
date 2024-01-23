@@ -1,2 +1,1 @@
-<h1>typical python dev</h1>
-<h2>i am **NOT** a homophobe, @|__.JS.__|</h2>
+<img src="https://voxj.github.io/assets/github/hello.png">
